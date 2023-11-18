@@ -1,7 +1,6 @@
-a=int(input("Enter a Number:"))
-b=int(input("Enter a Number:"))
-for i in range(a,b):
-    if i%2==0:
-        print("It is a even")
-    else :
-        print("It is a Odd")
+def sum():
+    n=input()
+    for i in n:
+        if i in ["A","a","E","e","I","i","O","o","U","u"]:
+            n=n.print("*")
+sum()
