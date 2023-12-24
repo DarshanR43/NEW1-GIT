@@ -32,4 +32,4 @@ def play_quiz(file_path):
 
     print(f"Quiz finished! Your score: {score}/{total_questions}")
 
-play_quiz('quiz_questions_with_answers.txt')
+play_quiz('quiz_questions_with_answers(1).txt')
